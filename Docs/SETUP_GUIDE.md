@@ -66,10 +66,6 @@ npm run dev
 6. Replace `<password>` with your database password
 7. Paste into `MONGODB_URL` in backend `.env`
 
-**Example:**
-```
-mongodb+srv://myuser:mypassword@cluster0.xxxxx.mongodb.net/taskmanager?retryWrites=true&w=majority
-```
 
 ---
 
