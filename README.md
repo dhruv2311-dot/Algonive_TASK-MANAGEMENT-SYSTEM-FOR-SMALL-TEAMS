@@ -144,7 +144,7 @@ Create a `.env` file in the `backend` directory:
 
 ```env
 PORT=5000
-MONGODB_URL=mongodb+srv://username:password@cluster.mongodb.net/taskmanager?retryWrites=true&w=majority
+MONGODB_URL=YOUR_MONGODB_URL
 JWT_SECRET=your_super_secret_jwt_key_change_this_in_production
 EMAIL_USER=your_email@gmail.com
 EMAIL_PASS=your_gmail_app_password
